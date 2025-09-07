@@ -1,0 +1,17 @@
+tmux kill-session -t serve
+
+termux-toast -b black -c red "Stopping SSH Server 8022"
+
+pkill sshd
+
+echo 1
+echo 2
+echo 3
+echo 4
+echo 5
+echo 6
+echo 7
+echo 8
+echo 9
+
+am start --user 0 -n com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaLauncher

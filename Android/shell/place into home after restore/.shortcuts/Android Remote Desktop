@@ -1,0 +1,3 @@
+termux-toast -b white -c red "Paste shareable link into keep to connect"
+am start -n net.christianbeier.droidvnc_ng/net.christianbeier.droidvnc_ng.MainActivity
+
