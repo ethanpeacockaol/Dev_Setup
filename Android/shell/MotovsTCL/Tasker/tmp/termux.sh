@@ -1,0 +1,1 @@
+python /data/data/com.termux/files/home/0/x/Github/myapp/app.start
