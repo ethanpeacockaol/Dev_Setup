@@ -1,3 +1,6 @@
 termux9restore.tar.xz filter=lfs diff=lfs merge=lfs -text
 Android/shell/termux9restore.tar.xz filter=lfs diff=lfs merge=lfs -text
 Android/apks/sideload/com.kiwibrowser.browser-arm64-14310011181-github.apk filter=lfs diff=lfs merge=lfs -text
+Windows/exes/sideload/EditorV10.x64.msi filter=lfs diff=lfs merge=lfs -text
+Windows/exes/sideload/GitHubDesktopSetup-x64.exe filter=lfs diff=lfs merge=lfs -text
+Windows/exes/sideload/snagit.exe filter=lfs diff=lfs merge=lfs -text
