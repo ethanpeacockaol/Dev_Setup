@@ -10,6 +10,7 @@ Mobiles (android):
 * 2025 Moto g 5g  
 * 2024 Moto g Power 5g
 * 2023 onn. 11 Tablet Pro
+
 Desktops (windows):  
 * Intel iMac
 * Intel Mac Mini  
