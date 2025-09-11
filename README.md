@@ -24,7 +24,7 @@ Desktops (windows):
 
 # Installation Instructions  
 ```
-If you do not use git lfs you will not get files over 100mbs in the repo
+!!!WARNING!!! If you do not use git lfs you will not get files over 100mbs in the repo
 ```
 
 Android:  
