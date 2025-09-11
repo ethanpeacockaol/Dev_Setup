@@ -41,7 +41,7 @@ Windows:
 
 
 
-# Main Features:  
+# Features:  
 * Program in Python, HTML, CSS, and JavaScript on both platforms
 * Run Jupyter Notebooks on both platforms
 * Use git and git lfs on both platforms
