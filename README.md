@@ -38,3 +38,18 @@ Windows:
 # Configuration Instructions:  
 [Android Setup](Android/README.md)  
 [Windows Setup](Windows/README.md)
+
+
+
+# Main Features:  
+* Program in Python, HTML, CSS, and JavaScript on both platforms
+* Run Jupyter Notebooks on both platforms
+* Use git and git lfs on both platforms
+* Use Synergy mouse and keyboard software on both platforms
+* Use ssh and sftp on both platforms
+* Run cursor and windows driven Desktop environment on Android
+* Duplication of Windows start menu on android launcher (every button on every machine is in the same exact place)
+* Any generations, drawings, programming can run on any machine (Everything works on everything works everywhere)
+* Every machine can be a keyboard and mouse to another
+* Every machine can be a secondary, third, fourth, etc.. monitor, calculator, drawer, storage device for another machine
+* Use as many screens as you want and walk away with all of your work in your pocket without uploads without waiting (powered by Android) [Usage instructions for pocket server](pocket_server.md)
