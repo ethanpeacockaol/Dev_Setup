@@ -1,6 +1,7 @@
 # WaInNdDrOoWiSd
 
 ![readme logo](headerimg.png)
+<br>
 This project creates symmetry between the uses and features of Android and Windows (mobiles and desktops).
 
 
