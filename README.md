@@ -23,6 +23,10 @@ Desktops (windows):
 
 
 # Installation Instructions  
+```
+If you do not use git lfs you will not get files over 100mbs in the repo
+```
+
 Android:  
 * install termux from github releases 1.18.0
 * pkg install git git-lfs
