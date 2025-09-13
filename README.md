@@ -1,3 +1,8 @@
+https://drive.google.com/file/d/1cESg4jloqMeUVcSqJIHWiAlLqMJ2GpMk/view?usp=drivesdk
+termux backup public link 1 dmsave me 822mbs aol gdrive add public accwss to others for preservation from full local death internet restore with locked accounts right 
+
+
+
 # WaInNdDrOoWiSd
 
 ![readme logo](README_assets/headerimg.png)
