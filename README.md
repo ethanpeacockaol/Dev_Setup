@@ -2,6 +2,11 @@ https://drive.google.com/file/d/1cESg4jloqMeUVcSqJIHWiAlLqMJ2GpMk/view?usp=drive
 termux backup public link 1 dmsave me 822mbs aol gdrive add public accwss to others for preservation from full local death internet restore with locked accounts right 
 
 
+link 2 google gmail
+
+ep pe aol gmail
+https://drive.google.com/file/d/1SPEdU7m-eiEWRZ-FAOJRHTumVrz26Bcj/view?usp=drivesdk
+
 
 # WaInNdDrOoWiSd
 
